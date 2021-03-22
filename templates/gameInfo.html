@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<div class="container">
+  <h1 class="my-4">{{game.name}} detailed information</h1>
+  <div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Game</th>
+        <th>Genre</th>
+        <th>Platform</th>
+        <th>Price</th>
+        <th>Release_date</th>
+        <th>Availability</th>
+        <th>Pegi</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{ game.name }}</td>
+        <td>{{ game.genre}}</td>
+        <td>{{ game.platform }}</td>
+        <td>{{game.price}}</td>
+        <td>{{ game.release_date }}</td>
+        <td>{{ game.availability }}</td>
+        <td>{{ game.pegi }}</td>
+        
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div style="align-self: center; margin-left: 35%; margin-top: 5%;">
+    <a class="btn btn-primary btn-sm" href="/update/{{game.id}}" role="button" style="width: 20%;">Update</a>
+    <a class="btn btn-danger btn-sm" onclick="deleteItem()" role="button" style="width: 20%; color: white;">Delete</a>
+</div>
+</div>
+
+<script>
+    function deleteItem() {
+        var result = confirm("Are you sure want to delete?");
+        var selection;
+        if (result) {
+            selection = true;
+        } else {
+            selection= false;
+        }
+
+        if (selection == true){
+            window.location.href = 'http://127.0.0.1:5000//delete/{{game.id}}';
+        }
+    }
+
+</script>
+{% endblock body %}

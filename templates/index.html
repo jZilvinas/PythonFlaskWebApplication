@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<h2 style= "text-align: center; padding-top: 10px;">Kinect.lt games list</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-7" >
+            <form method="POST" action="/search">
+                <input name="search_string" type="text" placeholder="Search" value="" required style="align-self: center; margin-left: 58%; width: 400px;">
+                <input type="submit" value = "Search" style="margin-left: 85%;">
+            </form>
+        </div>
+        <div class="col-5">
+            <a class="btn btn-primary" href="/addgame" role="button" style="margin-left: 60%;">Add new game</a>
+        </div>
+    </div>
+<table style="background: cornsilk; margin-top: 20px;" class="table" style="align-self: center; margin-top: 30px;">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Games</th>
+            <th>Availability</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for game in games %}
+        <tr>
+            <td>{{ game.id }}</td>
+            <td><a href="/game/{{ game.id }}">{{ game.name }}</a></td>
+            <td style="width: 200px;">{{game.availability}}</td>
+            <td>{{game.price}} €</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</div>
+{% endblock body %}

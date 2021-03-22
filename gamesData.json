@@ -1,0 +1,427 @@
+{
+  "Games": [
+    {
+      "name": "Cyberpunk 2077 PS4",
+      "platform": "Playstation 4",
+      "genre": "RPG (Vaidmens)",
+      "price": "60.00",
+      "release_date": "2020-09-17",
+      "availability": "I\u0161ankstinis u\u017esakymas. Pristatymas i\u0161leidimo dien\u0105, u\u017esakius ne v\u0117liau kaip 2 d. iki i\u0161leidimo",
+      "pegi": "N/A"
+    },
+    {
+      "name": "NBA 2K20 PS4",
+      "platform": "Playstation 4",
+      "genre": "Sporto",
+      "price": "35.00",
+      "release_date": "2019-09-06",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "3+"
+    },
+    {
+      "name": "Grand Theft Auto V Premium Edition (GTA 5) PS4",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "29.00",
+      "release_date": "2018-06-05",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "18+"
+    },
+    {
+      "name": "Playstation VR Mega Pack 2 PSVR",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "339.00",
+      "release_date": "N/A",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "N/A"
+    },
+    {
+      "name": "Just Dance 2018 PS4",
+      "platform": "Playstation 4",
+      "genre": "Vakar\u0117liams",
+      "price": "30.00",
+      "release_date": "2017-10-27",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "3+"
+    },
+    {
+      "name": "Just Dance 2020 PS4",
+      "platform": "Playstation 4",
+      "genre": "Vakar\u0117liams",
+      "price": "35.90",
+      "release_date": "2019-11-05",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "3+"
+    },
+    {
+      "name": "Gran Turismo Sport PS4",
+      "platform": "Playstation 4",
+      "genre": "Lenktyni\u0173",
+      "price": "23.00",
+      "release_date": "2017-10-18",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "3+"
+    },
+    {
+      "name": "Playstation VR Worlds PSVR",
+      "platform": "PSVR",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "19.00",
+      "release_date": "2016-10-13",
+      "availability": "Turime",
+      "pegi": "16+"
+    },
+    {
+      "name": "Fortnite Battle Royale Neo Versa Pack 2000 V-bucks kortel\u0117 su kodu PS4",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "25.00",
+      "release_date": "2019-07-26",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "12+"
+    },
+    {
+      "name": "WRC 9 PS4",
+      "platform": "Playstation 4",
+      "genre": "Lenktyni\u0173",
+      "price": "46.00",
+      "release_date": "2020-09-03",
+      "availability": "prek\u0117s gavimas i\u0161leidimo dien\u0105, u\u017esakius ne veliau kaip savait\u0117 iki i\u0161leidimo dienos.",
+      "pegi": "3+"
+    },
+    {
+      "name": "Minecraft Bedrock Edition PS4",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "29.95",
+      "release_date": "2019-12-10",
+      "availability": "Turime",
+      "pegi": "7+"
+    },
+    {
+      "name": "Rayman Legends PS4",
+      "platform": "Playstation 4",
+      "genre": "Vaiki\u0161ki",
+      "price": "22.00",
+      "release_date": "2014-02-21",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "7+"
+    },
+    {
+      "name": "The Last of Us Part 2 PS4",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "57.90",
+      "release_date": "2020-06-19",
+      "availability": "I\u0161ankstinis u\u017esakymas. Pristatymas i\u0161leidimo dien\u0105.",
+      "pegi": "18+"
+    },
+    {
+      "name": "Resident Evil 7 Biohazard PS4",
+      "platform": "PS4,PSVR",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "22.00",
+      "release_date": "2017-01-24",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "18+"
+    },
+    {
+      "name": "Spider-Man PS4",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "24.90",
+      "release_date": "2018-09-07",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "16+"
+    },
+    {
+      "name": "Fifa 18 PS4",
+      "platform": "Playstation 4",
+      "genre": "Sporto",
+      "price": "19.00",
+      "release_date": "2017-09-29",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "7+"
+    },
+    {
+      "name": "UFC 3 PS4",
+      "platform": "Playstation 4",
+      "genre": "Kovos/Mu\u0161tyn\u0117s",
+      "price": "29.00",
+      "release_date": "2018-02-02",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "16+"
+    },
+    {
+      "name": "Watch Dogs Legion PS4",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "56.00",
+      "release_date": "2020-12-31",
+      "availability": "prek\u0117s gavimas i\u0161leidimo dien\u0105, u\u017esakius ne veliau kaip savait\u0117 iki i\u0161leidimo dienos.",
+      "pegi": "18+"
+    },
+    {
+      "name": "Watch Dogs Legion Limited Edition PS4",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "59.00",
+      "release_date": "2020-12-31",
+      "availability": "prek\u0117s gavimas i\u0161leidimo dien\u0105, u\u017esakius ne veliau kaip savait\u0117 iki i\u0161leidimo dienos.",
+      "pegi": "18+"
+    },
+    {
+      "name": "Mortal Kombat XL PS4",
+      "platform": "Playstation 4",
+      "genre": "Kovos/Mu\u0161tyn\u0117s",
+      "price": "22.00",
+      "release_date": "2016-03-04",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "18+"
+    },
+    {
+      "name": "Need For Speed Payback PS4",
+      "platform": "Playstation 4",
+      "genre": "Lenktyni\u0173",
+      "price": "27.90",
+      "release_date": "2017-11-10",
+      "availability": "Turime",
+      "pegi": "12+"
+    },
+    {
+      "name": "Shadow of the Tomb Raider PS4",
+      "platform": "Playstation 4",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "24.90",
+      "release_date": "2018-09-14",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "18+"
+    },
+    {
+      "name": "Dirt Rally 2.0 PS4",
+      "platform": "Playstation 4",
+      "genre": "Lenktyni\u0173",
+      "price": "27.00",
+      "release_date": "2019-02-26",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "3+"
+    },
+    {
+      "name": "Battlefield 3 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "\u0160audymo",
+      "price": "5.00",
+      "release_date": "2011-10-27",
+      "availability": "Turime",
+      "pegi": "18+"
+    },
+    {
+      "name": "Call Of Duty Modern Warfare 2 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "\u0160audymo",
+      "price": "5.00",
+      "release_date": "2009-11-10",
+      "availability": "Turime",
+      "pegi": "18+"
+    },
+    {
+      "name": "Fifa 14 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Sporto",
+      "price": "4.00",
+      "release_date": "2013-09-26",
+      "availability": "Turime",
+      "pegi": "3+"
+    },
+    {
+      "name": "Call of Duty MW3 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "\u0160audymo",
+      "price": "8.00",
+      "release_date": "2011-11-08",
+      "availability": "Turime parduotuv\u0117je",
+      "pegi": "18+"
+    },
+    {
+      "name": "Killzone 2 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "\u0160audymo",
+      "price": "3.00",
+      "release_date": "2009-02-25",
+      "availability": "Turime",
+      "pegi": "18+"
+    },
+    {
+      "name": "F1 2010 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Lenktyni\u0173",
+      "price": "5.00",
+      "release_date": "2010-09-24",
+      "availability": "Turime",
+      "pegi": "3+"
+    },
+    {
+      "name": "Call of Duty Black Ops PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "\u0160audymo",
+      "price": "12.00",
+      "release_date": "2010-11-09",
+      "availability": "Turime",
+      "pegi": "18+"
+    },
+    {
+      "name": "Brink PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "5.00",
+      "release_date": "2011-05-13",
+      "availability": "Turime",
+      "pegi": "16+"
+    },
+    {
+      "name": "EyePet Move Edition PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Judesio su kamera",
+      "price": "7.00",
+      "release_date": "2011-04-08",
+      "availability": "Turime",
+      "pegi": "3+"
+    },
+    {
+      "name": "Fifa 15 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Sporto",
+      "price": "7.00",
+      "release_date": "2014-09-25",
+      "availability": "Turime",
+      "pegi": "3+"
+    },
+    {
+      "name": "The Beatles RockBand PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Vakar\u0117liams",
+      "price": "5.00",
+      "release_date": "2009-10-09",
+      "availability": "Turime",
+      "pegi": "12+"
+    },
+    {
+      "name": "Battlefield Bad Company 2 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "\u0160audymo",
+      "price": "8.00",
+      "release_date": "2010-03-05",
+      "availability": "Turime",
+      "pegi": "16+"
+    },
+    {
+      "name": "Deus Ex Human Revolution PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "RPG (Vaidmens)",
+      "price": "5.00",
+      "release_date": "2011-08-26",
+      "availability": "Turime",
+      "pegi": "16+"
+    },
+    {
+      "name": "Mirrors Edge PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "8.00",
+      "release_date": "2008-11-14",
+      "availability": "Turime",
+      "pegi": "16+"
+    },
+    {
+      "name": "Saints Row the Third PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "10.00",
+      "release_date": "2011-11-18",
+      "availability": "Turime",
+      "pegi": "18+"
+    },
+    {
+      "name": "TV Superstars PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Vakar\u0117liams",
+      "price": "2.00",
+      "release_date": "2010-10-27",
+      "availability": "Turime",
+      "pegi": "7+"
+    },
+    {
+      "name": "Everyone Sing PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Vakar\u0117liams",
+      "price": "12.00",
+      "release_date": "2012-06-26",
+      "availability": "Turime",
+      "pegi": "12+"
+    },
+    {
+      "name": "Call of Duty Black Ops 2 PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "\u0160audymo",
+      "price": "17.00",
+      "release_date": "2012-11-13",
+      "availability": "Turime",
+      "pegi": "18+"
+    },
+    {
+      "name": "Singstar Guitar PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Vakar\u0117liams",
+      "price": "8.00",
+      "release_date": "2010-10-13",
+      "availability": "Turime",
+      "pegi": "12+"
+    },
+    {
+      "name": "Eyepet and Friends PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Vakar\u0117liams",
+      "price": "10.00",
+      "release_date": "2011-11-18",
+      "availability": "Turime",
+      "pegi": "3+"
+    },
+    {
+      "name": "Band Hero PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Vakar\u0117liams",
+      "price": "5.00",
+      "release_date": "2009-11-06",
+      "availability": "Turime",
+      "pegi": "3+"
+    },
+    {
+      "name": "Disney Sing it PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Vakar\u0117liams",
+      "price": "10.00",
+      "release_date": "2008-10-14",
+      "availability": "Turime",
+      "pegi": "3+"
+    },
+    {
+      "name": "Kane and Lynch Dead Men PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Veiksmo/Nuotyki\u0173",
+      "price": "7.00",
+      "release_date": "2007-11-23",
+      "availability": "Turime",
+      "pegi": "18+"
+    },
+    {
+      "name": "RockBand PS3 [Naudotas]",
+      "platform": "Playstation 3",
+      "genre": "Vakar\u0117liams",
+      "price": "5.00",
+      "release_date": "2008-05-23",
+      "availability": "Turime",
+      "pegi": "12+"
+    }
+  ]
+}

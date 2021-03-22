@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<div class="container">
+  <h1 class="my-4">Updating {{game.name}} information</h1>
+  <form action="/update/{{ game.id }}" method="POST">
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Game</th>
+                    <th>Genre</th>
+                    <th>Platform</th>
+                    <th>Price</th>
+                    <th>Release_date</th>
+                    <th>Availability</th>
+                    <th>Pegi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type="text" class="form-control" name="name" value="{{game.name}}"></td>
+                    <td><input type="text" class="form-control" name="genre" value="{{game.genre}}"></td>
+                    <td><input type="text" class="form-control" name="platform" value="{{game.platform}}"></td>
+                    <td><input type="text" class="form-control" name="price" value="{{game.price}}"></td>
+                    <td><input type="text" class="form-control" name="release_date" value="{{game.release_date}}"></td>
+                    <td><input type="text" class="form-control" name="availability" value="{{game.availability}}"></td>
+                    <td><input type="text" class="form-control" name="pegi" value="{{game.pegi}}"></td>
+                    
+                </tr>
+            </tbody>
+        </table>
+        <div style="align-self: center; margin-left: 35%; margin-top: 5%;">
+            <button class="btn btn-primary btn-sm" type="submit" style="width: 30%; color: white;">Update</button>
+        </div>
+    </form>
+
+</div>
+
+{% endblock body %}
